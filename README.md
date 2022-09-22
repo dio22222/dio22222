@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Django and React
+
 🔭 Worked at @InnovationHive as a Developer for EU-Funded Projects
 > Some of them:
 <!--
