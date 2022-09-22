@@ -9,7 +9,7 @@
       - Web App : https://financialit4women-digital-game.eu/
       - Android App : https://finlit4women.eu/mobile-game/
   - Co-Art : http://co-art-hub.eu [Currently no HTTPS]
-  - BoostDigiCulture : https://boostdigiculture-learning.eu [Mock-up to display how the Application will look like]
+  - BoostDigiCulture : https://boostdigiculture-learning.eu [Mock-up to display how the Application will look like ~ Buttons are just link without backend functionality]
 <!--
 **dio22222/dio22222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
