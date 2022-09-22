@@ -3,6 +3,7 @@
 
 🔭 Worked at @InnovationHive as a Developer for EU-Funded Projects
 > Some of them:
+
 Work Based Learning: https://wblnetworking.eu/
 <!--
 **dio22222/dio22222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
