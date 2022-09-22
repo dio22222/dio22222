@@ -5,6 +5,9 @@
 > Some of them:
 
   - Work Based Learning: https://wblnetworking.eu/
+  - Financial Literacy for Women (Finlit4women): 
+      - https://financialit4women-digital-game.eu/
+      - https://finlit4women.eu/mobile-game/
 <!--
 **dio22222/dio22222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
