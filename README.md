@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Django and React
 
-🔭 Worked at @InnovationHive as a Developer for EU-Funded Projects
+🔭 Worked at [@InnovationHive](https://github.com/InnovationHive) as a Developer for EU-Funded Projects
 > Some of them:
 
   - Work Based Learning : https://wblnetworking.eu/
