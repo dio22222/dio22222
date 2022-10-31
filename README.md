@@ -8,7 +8,7 @@
   - Financial Literacy for Women ~ Finlit4women : 
       - Web App : https://financialit4women-digital-game.eu/
       - Android App : https://finlit4women.eu/mobile-game/
-  - Co-Art : http://co-art-hub.eu [Currently no HTTPS]
+  - Co-Art : http://co-art-hub.eu
   - BoostDigiCulture : https://boostdigiculture-learning.eu [Mock-up to display how the Application will look like ~ Buttons are just links without backend functionality]
   - Disc [Game] : https://disc-game.eu/
 <!--
