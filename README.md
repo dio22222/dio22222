@@ -1,5 +1,6 @@
 # 💫 About Me:
-### Hi there 👋<br><br>⚡ Full Stack Developer focused on Seamless User Experiences and Scalable<br>Solutions<br><br>💬 Ambitious Full Stack Developer offering 4+ years of experience in building Scalable Web<br>Applications and APIs with a keen attention to User Experience. Built three MVPs that initiated<br>company growth, various projects funded by the European Union, and helped businesses to<br>grow their online presence and tooling -innate ability to lead and maximise teamwork and<br>efficiency.
+### Hi there 👋<br><br>⚡Lead Full Stack Developer focused on seamless user experiences and scalable solutions<br>
+💬 Ambitious Full Stack Developer offering 4+ years of experience in building Scalable Web Applications and APIs with a keen attention to User Experience. Built three MVPs that initiated company growth, various projects funded by the European Union, and helped businesses to grow their online presence and tooling -innate ability to lead and maximise teamwork and efficiency.
 
 
 ## 🌐 Socials:
