@@ -9,7 +9,7 @@ company growth, various projects funded by the European Union, and helped busine
 grow their online presence and tooling -innate ability to lead and maximise teamwork and
 efficiency.
 
-🔌****Python | Django | React | Django Rest Framework | Typescript | Javascript | Next.js | Firebase |
+🔌**Python | Django | React | Django Rest Framework | Typescript | Javascript | Next.js | Firebase |
 PostgreSQL | REST APIs | TailwindCSS | Team Leadership | Docker | CI/CD | TDD | Linux**
 
 <!--
