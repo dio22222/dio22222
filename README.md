@@ -1,6 +1,7 @@
 # 💫 About Me:
-### Hi there 👋<br><br>⚡Lead Full Stack Developer focused on seamless user experiences and scalable solutions<br>
-💬 Ambitious Full Stack Developer offering 4+ years of experience in building Scalable Web Applications and APIs with a keen attention to User Experience. Built three MVPs that initiated company growth, various projects funded by the European Union, and helped businesses to grow their online presence and tooling -innate ability to lead and maximise teamwork and efficiency.
+### Hi there 👋<br><br>🔥 Lead Full Stack Developer focused on seamless user experiences and scalable solutions<br>
+⚡Currently leading the development team of **Teleglobal Telecommunications**, building a next-gen IoT platform⚡<br><br>
+💬 Ambitious Full Stack Developer offering 4+ years of experience in building scalable Web Applications and APIs with a keen attention to User Experience. Built three MVPs that initiated company growth, various projects funded by the European Union, and helped businesses to grow their online presence and tooling -innate ability to lead and maximise teamwork and efficiency.
 
 
 ## 🌐 Socials:
