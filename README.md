@@ -1,7 +1,7 @@
 # 💫 About Me
 ### Hi there 👋<br><br>🔥 Lead Full Stack Developer focused on seamless user experiences and scalable solutions<br>
 ⚡Currently leading the development team of **Teleglobal Telecommunications**, building a next-gen IoT platform⚡<br><br>
-💬 Full Stack Engineer with 4+ years of experience building scalable web applications, real-time systems, and cloud-driven IoT platforms. Proven track record in leading development teams, architecting reliable systems, and transforming MVPs into production-ready products. Skilled across Python, Django, React, TypeScript, CI/CD, Docker, and cloud infrastructure.
+💬 Full Stack Engineer with 5 years of experience building scalable web applications, real-time systems, and cloud-driven IoT platforms. Proven track record in leading development teams, architecting reliable systems, and transforming MVPs into production-ready products. Skilled across Python, Django, React, TypeScript, CI/CD, Docker, and cloud infrastructure.
 
 
 ## 🌐 Socials
